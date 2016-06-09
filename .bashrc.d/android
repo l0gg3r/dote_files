@@ -1,0 +1,5 @@
+export ANDROID_NDK_ROOT="${HOME}/Library/Android/ndk"
+export ANDROID_SDK_ROOT="${HOME}/Library/Android/sdk"
+
+export ANDROID_HOME="$ANDROID_SDK_ROOT"
+export NDK_ROOT="$ANDROID_NDK_ROOT"
